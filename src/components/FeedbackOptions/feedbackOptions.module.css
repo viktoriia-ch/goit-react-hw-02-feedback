@@ -1,0 +1,32 @@
+.list_buttons {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  margin-top: 20px;
+}
+
+.button {
+  background-color: #ba2649;
+  color: #fff;
+  border: 2px solid #ba2649;
+  border-radius: 3px;
+
+  padding: 5px 12px;
+  cursor: pointer;
+}
+
+.button:first-letter {
+  text-transform: uppercase;
+}
+
+.button:hover {
+  background-color: #881b35;
+  color: #fff;
+  border: 2px solid #881b35;
+}
+
+.button:active {
+  background-color: #fff;
+  color: #ba2649;
+  border: 2px solid #ba2649;
+}
