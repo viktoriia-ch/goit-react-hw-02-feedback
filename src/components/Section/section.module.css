@@ -1,8 +1,11 @@
 .section {
-  margin-top: 20px;
-  margin-left: 25px;
+  width: max-content;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .title {
+  color: rgb(80, 80, 80);
   font-size: 30px;
 }

@@ -6,9 +6,9 @@
 }
 
 .button {
-  background-color: #ba2649;
+  background-color: #008080;
   color: #fff;
-  border: 2px solid #ba2649;
+  border: 2px solid #008080;
   border-radius: 3px;
 
   padding: 5px 12px;
@@ -20,13 +20,13 @@
 }
 
 .button:hover {
-  background-color: #881b35;
+  background-color: #006666;
   color: #fff;
-  border: 2px solid #881b35;
+  border: 2px solid #006666;
 }
 
 .button:active {
   background-color: #fff;
-  color: #ba2649;
-  border: 2px solid #ba2649;
+  color: #006666;
+  border: 2px solid #006666;
 }
